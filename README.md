@@ -11,9 +11,9 @@
 
 Размера кирпича задаются с помощью констант в миллиметрах, например:
   ```javascript
-  const brickLength = 250;
-  const brickWidth = 125;
   const brickHeight = 65;
+  const brickWidth = 125;
+  const brickLength = 250;
   ```
 
 Это стандартные размеры кирпича, и для удобства мы их будем использовать в задаче.
