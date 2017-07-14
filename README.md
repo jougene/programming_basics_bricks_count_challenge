@@ -22,10 +22,10 @@
 Выглядеть она будет примерно так:
 #### Вид спереди: 
 
-<img src="https://pp.vk.me/c633521/v633521298/20452/v0-o_5i6gBQ.jpg" width="400";" /> 
+<img src="https://pp.vk.me/c633521/v633521298/20452/v0-o_5i6gBQ.jpg" width="400"> 
 #### Вид сверху: 
 
-<img src="https://pp.vk.me/c633521/v633521298/20459/QNn7Kn86mk8.jpg" width="400";" />
+<img src="https://pp.vk.me/c633521/v633521298/20459/QNn7Kn86mk8.jpg" width="400">
 
 18 === bricksCount(0.195, 0.5, 0.5) 
   
